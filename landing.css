@@ -432,4 +432,31 @@ a.little_visit {
 footer {
   height: 677px;
   background: #5C5C5C;
+  text-align: center;
+  padding: 35px 0px;
+}
+
+#get_updates {
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 43px;
+  color: #FCFCFC;
+  margin-bottom: 20px;
+
+}
+
+#lastinput {
+  width: 344px;
+  height: 55px;
+  border-radius: 5px 0px 0px 5px;
+  border: none;
+}
+
+#lastsubcribe {
+  width: 140px;
+  height: 55px;
+  background: #18783C;
+  border-radius: 0px 5px 5px 0px;
+  color: white;
+  border: none;
 }
