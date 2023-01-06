@@ -450,6 +450,7 @@ footer {
   height: 55px;
   border-radius: 5px 0px 0px 5px;
   border: none;
+  margin-bottom: 90px;
 }
 
 #lastsubcribe {
@@ -459,4 +460,57 @@ footer {
   border-radius: 0px 5px 5px 0px;
   color: white;
   border: none;
+}
+
+.flexlink_container  {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#lastmainlogo {
+  position: relative;
+  bottom: 50px;
+}
+
+#playstore {
+  position: relative;
+  bottom: 45px;
+}
+
+.lastlogos {
+  width: 150px;
+  height: 50px;
+  margin-left: 20px;
+  margin-bottom: 8px;
+}
+
+
+.flexchild  {
+  margin-right: 70px;
+  text-align: left;
+}
+
+.foothead {
+  margin-bottom: 50px;
+}
+
+.lastparagh   {
+  position: relative;
+  left: 19px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  color: #FFFFFF;
+  margin-bottom: 20px;
+}
+
+
+.footlang  {
+  display: block;
+  text-align: left;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  color: #FFFFFF;
+  margin-bottom: 20px;
 }
